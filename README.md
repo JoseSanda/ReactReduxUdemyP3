@@ -2,6 +2,7 @@
 
 Más información sobre el curso: https://www.udemy.com/react-redux/.
 Autor del curso Stephen Grider.
+Código boilerplate original: https://github.com/StephenGrider/ReduxSimpleStarter.git.
 
 ## Información
 
